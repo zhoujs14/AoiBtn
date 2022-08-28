@@ -1,0 +1,45 @@
+{
+  "i18n": false,
+  "neko_mimi": false,
+  "name": {
+    "CN": {
+      "title": "Aoi按钮",
+      "fullName": ""
+    },
+    "EN": {
+      "title": "Voives Button",
+      "fullName": ""
+    }
+  },
+  "readme": "",
+  "header": {
+    "icon": "img/logo.svg",
+    "youtube": "",
+    "twitter": "",
+    "bilibili": "https://space.bilibili.com/1865376713"
+  },
+  "link": [
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "Detective Corgi",
+        "url": ""
+      }
+    ],
+    "info": [
+      "关注青井葵aoe"
+    ],
+    "githubUrl": ""
+  },
+  "console": {
+    "text": "",
+    "size": "",
+    "color": "",
+    "img": "",
+    "imgWidth": "",
+    "imgHeight": ""
+  },
+  "mediaSession": "",
+  "CDN": ""
+}
